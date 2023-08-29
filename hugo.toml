@@ -1,0 +1,4 @@
+baseURL = 'https://dulcet-torte-84af68.netlify.app/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'gruvhugo-master'
