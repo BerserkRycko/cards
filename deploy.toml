@@ -46,29 +46,6 @@ metaDataFormat= "yaml"
   custom_css = ["css/style.css"]
 
  # Social icons
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:mail@mail.com"
-
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
 
 [menu]
   [[menu.main]]
